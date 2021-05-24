@@ -11,4 +11,4 @@
 1. Outter For문으로 index 0 - i 까지의 substring 지정
 2. Inner For문으로 i 길이만큼씩 텍스트를 잘라가며 output 완성
 3. output의 길이와 answer 값중 더 작은 값으로 answer 갱신
-4. answer 
+4. answer 반환
